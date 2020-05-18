@@ -1,0 +1,28 @@
+{
+  "name": "generate-team-profiles",
+  "version": "1.0.0",
+  "description": "set up and refer back to an easy list of all the employees and their info on your current project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drkeck/Generate-Team-Profiles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drkeck/Generate-Team-Profiles/issues"
+  },
+  "homepage": "https://github.com/Drkeck/Generate-Team-Profiles#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
